@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1e8ed95-a2e0-4f9d-ab06-359c0a8b96b5" name="Changes" comment="Added JUnit5 Tests" />
+    <list default="true" id="e1e8ed95-a2e0-4f9d-ab06-359c0a8b96b5" name="Changes" comment="Added CircleCI" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679260890980</updated>
       <workItem from="1679260894618" duration="488000" />
-      <workItem from="1679261414558" duration="638000" />
+      <workItem from="1679261414558" duration="999000" />
     </task>
     <task id="LOCAL-00001" summary="Git Init">
       <created>1679260968085</created>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679262049228</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added CircleCI">
+      <created>1679262414411</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679262414411</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +123,7 @@
     <MESSAGE value="Git Init" />
     <MESSAGE value="Added Maven" />
     <MESSAGE value="Added JUnit5 Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added JUnit5 Tests" />
+    <MESSAGE value="Added CircleCI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added CircleCI" />
   </component>
 </project>

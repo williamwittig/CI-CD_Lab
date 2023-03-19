@@ -10,7 +10,7 @@ class DiceTest {
 
     @BeforeEach
     void setUp() {
-        dice = new Dice(6, "blue");
+        dice = new Dice(6, "red");
     }
     @Test
     void getSides() {
